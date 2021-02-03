@@ -1,4 +1,3 @@
 Hello,
-students.
-
+Mentors and students
 Welcome to the Linux Session.
