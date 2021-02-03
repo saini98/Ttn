@@ -1,3 +1,4 @@
 Hello,
 students.
-This is a Welcome to Linx
+
+Welcome to the Linux Session.
